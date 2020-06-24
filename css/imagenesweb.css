@@ -1,0 +1,17 @@
+div {
+	background:#ccc;
+	width: 100%;   
+}
+
+
+img {
+	
+	width: 300px;
+	height: auto;
+	margin: auto;   
+	display:block;  /*centar*/
+	border-radius: ;  /*quitar los bordes*/
+	/*box-shadow: 5px 5px 0px #424242;*/
+	padding: 10px;
+	border: 1px solid #00FFFF;
+}
